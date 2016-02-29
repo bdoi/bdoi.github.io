@@ -1,7 +1,5 @@
 ---
 layout: default
-link: index
-lang: en
 ---
 
 <div class="home">
@@ -9,8 +7,7 @@ lang: en
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
+    {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

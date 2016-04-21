@@ -7,8 +7,4 @@ install:
 
 script:
   - jekyll build
-  - htmlproof --check-html ./_site --href-ignore "#"
-
-branches:
-  only:
-    - gh-pages
+  - htmlproofer --check-html ./_site --href-ignore "#"

@@ -1,4 +1,4 @@
-# Multilingual Jekyll [![Build Status](https://travis-ci.org/sylvaindurand/multilingual-jekyll.svg?branch=gh-pages)](https://travis-ci.org/sylvaindurand/multilingual-jekyll)
+# Multilingual Jekyll
 
 This repository aims to show how to get a minimal multilingual *Jekyll* website.
 

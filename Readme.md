@@ -19,7 +19,7 @@ You can check the demo on [multilingual.sylvaindurand.org](https://multilingual.
 1. Still have a look at the article [Making *Jekyll* multilingual](https://www.sylvaindurand.org/making-jekyll-multilingual/), which explains how things work!
 2. Clone the repo: `git clone https://github.com/sylvaindurand/jekyll-multilingual.git`
 3. Open the folder: `cd jekyll-multilingual`
-4. Remove `Readme.md`, `CNAME` and `.travis.yml`, which are useless outside this repository
+4. Remove `Readme.md` and `jekyll-multilingual.gemspec`, which are useless outside this repository
 5. Build the website: `jekyll build`
 
 ## Colophon

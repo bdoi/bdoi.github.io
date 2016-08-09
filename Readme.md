@@ -4,7 +4,7 @@ This repository aims to show how to get a minimal multilingual *Jekyll* website.
 
 It is based on the [**Making *Jekyll* multilingual**](https://www.sylvaindurand.org/making-jekyll-multilingual/) article, applied on the [Jekyll default theme](https://github.com/jglovier/jekyll-new).
 
-You can check the demo on [multilingual.sylvaindurand.org](https://multilingual.sylvaindurand.org/).
+You can check the demo on [sylvaindurand.github.io/jekyll-multilingual/](https://sylvaindurand.github.io/jekyll-multilingual/).
 
 
 ## Make your website multilingual

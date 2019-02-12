@@ -4,24 +4,17 @@
   
     
       <url>
+        <loc>/404.html</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
         <loc>/feed.xml</loc>
         
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/flux.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/index-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2019-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2019/" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -31,22 +24,6 @@
       <url>
         <loc>/flux.xml</loc>
         
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/flux.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/index-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2019-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2019/" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -83,22 +60,6 @@
         <loc>/css/main.css</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/flux.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/index-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2019-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2019/" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
-        
         <changefreq>weekly</changefreq>
       </url>
     
@@ -134,21 +95,14 @@
         <loc>/sitemaps.xml</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/assets/css/style.css</loc>
         
-          <xhtml:link rel="alternate" hreflang="bn" href="/flux.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/index-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2019-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2019/" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
         
         <changefreq>weekly</changefreq>
       </url>

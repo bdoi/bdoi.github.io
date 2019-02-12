@@ -11,7 +11,9 @@ function buildAndDeploy() {
   git stash pop
 }
 
-jekyll build
+bundle exec jekyll build
 if [ $? -eq 0 ]; then
   buildAndDeploy
+else
+  echo "Install ruby and jekyll"
 fi

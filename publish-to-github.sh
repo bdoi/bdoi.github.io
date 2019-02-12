@@ -1,12 +1,5 @@
 #!/bin/bash
 
-bundle exec jekyll build
-
-# if [ $? -eq 0 ] then
-#   buildAndDeploy;
-# fi
-
-
 function buildAndDeploy() {
   git stash
   git checkout master
@@ -18,4 +11,7 @@ function buildAndDeploy() {
   git stash pop
 }
 
-buildAndDeploy
+jekyll build
+if [ $? -eq 0 ]; then
+  buildAndDeploy
+fi

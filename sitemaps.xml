@@ -92,6 +92,50 @@
   
     
       <url>
+        <loc>/registration-bn/</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/registration/</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/resource-bn.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="bn" href="/resource-bn.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/resource.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/resource.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="bn" href="/resource-bn.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/resource.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
         <loc>/sitemaps.xml</loc>
         
         

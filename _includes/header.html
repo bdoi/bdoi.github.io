@@ -1,10 +1,11 @@
 <header class="site-header">
 
   <div class="wrapper">
+    <img class="logo" src="{{ site.baseurl }}/logo.svg" />
 
     <a class="site-title" href="{{ site.baseurl }}/{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</a>
-
     <nav class="site-nav">
+
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
           <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
@@ -16,9 +17,11 @@
       <div class="trigger">
         {% assign pages=site.pages | where:"lang", page.lang %}
         {% for my_page in pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
+          {% unless my_page.exclude %}
+            {% if my_page.title %}
+            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {% endif %}
+          {% endunless %}
         {% endfor %}
 
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}

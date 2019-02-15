@@ -22,6 +22,5 @@ github_username:  jekyll
 language:
     en: English
     bn: বাংলা
-
 # Build settings
 markdown: kramdown

@@ -57,8 +57,8 @@ lang: en
 </table>
 <br><br>
 #### National Round ####
-Day 1: **March 23, Friday, 2019**
+Day 1: **March 22, Friday, 2019**
 
-Day 2: **March 24, Saturday, 2019**
+Day 2: **March 23, Saturday, 2019**
 
 Venue: Daffodil International University

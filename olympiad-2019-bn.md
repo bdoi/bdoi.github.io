@@ -48,7 +48,7 @@ lang: bn
     <td class="tg-0pky">মেট্রোপলিটন ইউনিভার্সিটি</td>
   </tr>
   <tr>
-    <td class="tg-0pky">রংপুর</td>
+    <td class="tg-0pky">দিনাজপুর</td>
     <td class="tg-0pky">হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়
 </td>
   </tr>

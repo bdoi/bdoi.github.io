@@ -50,7 +50,7 @@ lang: en
     <td class="tg-0pky">Metropolitan University</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Rangpur</td>
+    <td class="tg-0pky">Dinajpur</td>
     <td class="tg-0pky">Hajee Mohammad Danesh Science & Technology University
 </td>
   </tr>

@@ -22,7 +22,7 @@ lang: en
 ## Schedule ##
 
 #### Divisional Round ####
-**2:00-6:00 PM, Friday, March 8, 2019**
+**2:00-6:00 PM, Tuesday, March 12, 2019**
 
 <table class="tg">
   <tr>

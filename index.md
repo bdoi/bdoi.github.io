@@ -21,8 +21,8 @@ Top performers from the divisional round will participate in the national round,
 <div>
     <center>
         <h2>In Association With</h2>
-        <img src="./assets/BIOC.png" />
-        <img src="./assets/DBBL.jpg" style="max-width:72%"/>
+        <img src="./assets/BIOC.png" style="max-height: 200.812px" />
+        <img src="./assets/DBBL.jpg" style="max-width:72%;"/>
     </center>
 </div>
 

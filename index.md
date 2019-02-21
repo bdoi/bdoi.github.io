@@ -14,3 +14,26 @@ The goals of the IOI are to bring together, challenge, and give recognition to y
 BdOI is organized at the national level. The participants of BdOI are selected through a preliminary round of the contest that will run in parallel simultaneously at several venues at several divisional districts. Students will need to go to their respective divisional venues with their institutional identity card.
 
 Top performers from the divisional round will participate in the national round, i.e., at BdOI.
+
+<br />
+<hr />
+<br />
+<div>
+    <center>
+        <h2>In Association With</h2>
+        <img src="./assets/BIOC.png" style="max-height: 200.812px" />
+        <img src="./assets/DBBL.jpg" style="max-width:72%;"/>
+    </center>
+</div>
+
+<br />
+<br />
+<hr />
+<br />
+<div>
+    <center>
+        <h2>Our Affiliates</h2>
+        <img src="./assets/IOI.png" />
+        <img src="./assets/APIO-2018.png" />
+    </center>
+</div>

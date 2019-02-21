@@ -4,6 +4,9 @@ title: Resource
 ref: resource
 lang: en
 ---
+## Contest Platform Introduction
+- [Introduction to CMS & IOI Task Types - Rezwan Arefin](https://drive.google.com/file/d/1m5phmsXbWk8rG2dShX8CuPltrrzxLdy2/view)
+
 ## Learning to code
 - English
     - **Teach yourself C** -- *Herbert Schildt* (The book is available at Nilkhet)

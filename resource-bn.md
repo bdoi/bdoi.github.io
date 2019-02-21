@@ -4,6 +4,9 @@ title: রিসোর্স
 ref: resource
 lang: bn
 ---
+## কনটেস্ট প্লাটফর্ম পরিচিতি
+- [সিএমএস এবং আইওআই টাস্কটাইপ পিরিচিত - রেজওয়ান আরিফিন](https://drive.google.com/file/d/1m5phmsXbWk8rG2dShX8CuPltrrzxLdy2/view)
+
 ## প্রোগ্রামিং শেখার জন্য
 - ইংরেজি
     - **Teach yourself C** -- *Herbert Schildt* (নীলক্ষেতে বইটি পাওয়া যাবে)

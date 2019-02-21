@@ -22,7 +22,7 @@ lang: en
 ## Schedule ##
 
 #### Divisional Round ####
-**March 8, Friday, 2019**
+**2:00-6:00 PM, Tuesday, March 12, 2019**
 
 <table class="tg">
   <tr>
@@ -31,7 +31,7 @@ lang: en
   </tr>
   <tr>
     <td class="tg-0pky">Dhaka</td>
-    <td class="tg-0pky">Daffodil International University (Tentative)</td>
+    <td class="tg-0pky">Daffodil International University</td>
   </tr>
   <tr>
     <td class="tg-0pky">Chittagong</td>
@@ -43,22 +43,22 @@ lang: en
   </tr>
   <tr>
     <td class="tg-0pky">Rajshahi</td>
-    <td class="tg-0pky">University of Rajshahi (Tentative)</td>
-  </tr> 
+    <td class="tg-0pky">Varendra University</td>
+  </tr>
   <tr>
     <td class="tg-0pky">Sylhet</td>
     <td class="tg-0pky">Metropolitan University</td>
-  </tr>  
+  </tr>
   <tr>
     <td class="tg-0pky">Rangpur</td>
-    <td class="tg-0pky">Hajee Mohammad Danesh Science & Technology University (Tentative)   
+    <td class="tg-0pky">Hajee Mohammad Danesh Science & Technology University
 </td>
-  </tr> 
+  </tr>
 </table>
 <br><br>
 #### National Round ####
-Day 1: **March 23, Friday, 2019**
+Day 1: **March 22, Friday, 2019**
 
-Day 2: **March 24, Saturday, 2019**
+Day 2: **March 23, Saturday, 2019**
 
-Venue: Daffodil International University (Tentative)
+Venue: Daffodil International University

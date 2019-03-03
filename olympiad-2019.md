@@ -18,6 +18,11 @@ lang: en
 * [Schedule](#সময়সূচি)
     * [Divisional Round](#divisional-round)
     * [National Round](#national-round)
+* [Judge Environment](#Judge-Environment)
+    * [OS And Hardware](OS-And-Hardware)
+    * [Programming Languages](#Programming-Languages)
+* [Contest Environment](#Contest-Environment)
+    * [Text Editors And IDEs](#Text-Editors-And-IDEs)
 
 ## Schedule ##
 
@@ -62,3 +67,24 @@ Day 1: **March 22, Friday, 2019**
 Day 2: **March 23, Saturday, 2019**
 
 Venue: Daffodil International University
+
+
+## Judge Environment ##
+
+#### OS And Hardware ####
+  * Ubuntu 18.10 - 64bit
+  * Intel Xeon E5
+  * CMS 1.4
+
+#### Programming Languages ####
+  * GCC 8.3(C/C++)
+  * Java 8
+  * Python 2
+  * Python 3
+
+## Contest Environment ##
+
+#### Text Editors And IDEs ####
+  * Code::Blocks
+  * Eclipse
+  * Geany

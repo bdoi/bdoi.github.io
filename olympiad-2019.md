@@ -14,15 +14,15 @@ lang: en
 </style>
 # Competition #
 
-* [Registration]({{ site.baseurl }}/registration/)
-* [Schedule](#সময়সূচি)
+* [Schedule](#schedule)
     * [Divisional Round](#divisional-round)
     * [National Round](#national-round)
-* [Judge Environment](#Judge-Environment)
-    * [OS And Hardware](OS-And-Hardware)
-    * [Programming Languages](#Programming-Languages)
-* [Contest Environment](#Contest-Environment)
-    * [Text Editors And IDEs](#Text-Editors-And-IDEs)
+* [Instructions to Contestants](#instructions-to-contestants)
+* [Judge Environment](#judge-environment)
+    * [OS And Hardware](#os-and-hardware)
+    * [Programming Languages](#programming-languages)
+* [Contest Environment](#contest-environment)
+    * [Text Editors And IDEs](#text-editors-and-ides)
 
 ## Schedule ##
 
@@ -68,6 +68,35 @@ Day 2: **March 23, Saturday, 2019**
 
 Venue: Daffodil International University
 
+## Instructions to Contestants ##
+
+1. Please be at the venue by 1:00PM. Contestants will be provided light lunch.
+
+2. You must bring a valid ID card or any other form of proof of your class and studentship. For SSC examinees, SSC Admit card/Registration card will be acceptable. The proof should contain your photo.
+
+3. The contest will start at 0200 PM sharp. There will be no opening and/or closing ceremony for the divisional round. The contest will be hosted at online CMS and hence it will start right on time centrally across all venues globally.
+
+4. Log in credentials will be provided by the hosts few minutes before the contest start time. You must log in using your own credentials. For any issue, contact the hosts/invigilators/volunteers.
+
+5. The tasks will be available at CMS in PDF form in both Bangla and English. No printout will be given.
+
+6. You are NOT allowed to bring any material in electronic or printed format. You are NOT allowed to talk to any contestant. If you are found to use any such material or talk to others you will be expelled from the contest and disciplinary action may be taken by BIOC subject to investigation. Please do not bring anything except for a pen/pencil with you. You will be provided with blank pages and a pen. 
+
+7. You will be provided with the following environment.
+
+```
+Compilers: OpenJDK; GCC
+Text Editors and IDEs: Code::Blocks; Eclipse; Sublime Text
+```
+
+8. You are not allowed to use internet except for the following two links. If you are found to be using some other link over internet, you will be expelled from the contest and disciplinary action may be taken by BIOC subject to investigation.
+
+```
+https://practice.olympiad.org.bd/ 
+https://ranking.olympiad.org.bd/
+```
+
+9. During the contest you will be provided with very light refreshment with water/drinks. You are allowed to take that at your own pace. Please maintain discipline, do not disturb others and keep clean.
 
 ## Judge Environment ##
 

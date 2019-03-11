@@ -36,27 +36,56 @@ lang: en
   </tr>
   <tr>
     <td class="tg-0pky">Dhaka</td>
-    <td class="tg-0pky">Daffodil International University</td>
+    <td class="tg-0pky"><b>Daffodil International University</b><br/>
+Department of Computer Science and Engineering<br/>
+Mansion De Ayesha<br/>
+1 Sobhanbug [opposite of Sobhanbug Mosque]<br/>
+Dhanmondi, Dhaka 1207<br/>
+    </td>
   </tr>
   <tr>
     <td class="tg-0pky">Chittagong</td>
-    <td class="tg-0pky">Premier University</td>
+    <td class="tg-0pky"><b>Premier University</b><br/> 
+5th Floor (lift gate is beside cafe milano)<br/>  
+Academic Building #2<br/> 
+(Opposite to CSCR Hospital)<br/>  
+1/A, O. R. Nizam Road<br/> 
+Probortok square<br/> 
+Chittagong
+    </td>
   </tr>
   <tr>
     <td class="tg-0pky">Khulna</td>
-    <td class="tg-0pky">Khulna University of Engineering and Technology</td>
+    <td class="tg-0pky"><b>Khulna University of Engineering and Technology</b><br/>
+New Academic Building, Block-B<br/>
+CSE Lobby (1st Floor)<br/>
+Room number: CSE-104 and CSE-202<br/>
+Khulna University of Engineering and Technology, Khulna-9203
+    </td>
   </tr>
   <tr>
     <td class="tg-0pky">Rajshahi</td>
-    <td class="tg-0pky">Varendra University</td>
+    <td class="tg-0pky"><b>University of Rajshahi</b><br/>
+      Department of Computer Science and Engineering<br/>
+Room No: 220<br/>
+Fourth Science Building<br/>
+    </td>
   </tr>
   <tr>
     <td class="tg-0pky">Sylhet</td>
-    <td class="tg-0pky">Metropolitan University</td>
+    <td class="tg-0pky"><b>Metropolitan University</b><br/>
+Al Hamra (7th Floor)<br/>
+Zindabazar, Sylhet.<br/>
+    </td>
   </tr>
   <tr>
     <td class="tg-0pky">Dinajpur</td>
-    <td class="tg-0pky">Hajee Mohammad Danesh Science & Technology University
+    <td class="tg-0pky"><b>Hajee Mohammad Danesh Science and Technology University</b><br/>
+      Department of Computer Science and Engineering <br/>
+Room no. 201 and 202 (Lab) <br/>
+1st floor <br/>
+Dr. M. A. Wazed Building <br/>
+HSTU, Dinajpur.
 </td>
   </tr>
 </table>

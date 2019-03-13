@@ -15,8 +15,9 @@ lang: en
 # Competition #
 
 * [Schedule](#schedule)
-    * [Divisional Round](#divisional-round)
     * [National Round](#national-round)
+* [Results](#results)
+* [Solutions](#solutions)
 * [Instructions to Contestants](#instructions-to-contestants)
 * [Contest Environment](#contest-environment)
     * [Operating System](#operating-system)
@@ -25,70 +26,6 @@ lang: en
 
 ## Schedule ##
 
-#### Divisional Round ####
-**2:00-6:00 PM, Tuesday, March 12, 2019**
-
-<table class="tg">
-  <tr>
-    <th class="tg-0pky">City</th>
-    <th class="tg-0pky">Venue</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Dhaka</td>
-    <td class="tg-0pky"><b>Daffodil International University</b><br/>
-Department of Computer Science and Engineering<br/>
-Mansion De Ayesha<br/>
-1 Sobhanbug [opposite of Sobhanbug Mosque]<br/>
-Dhanmondi, Dhaka 1207<br/>
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Chittagong</td>
-    <td class="tg-0pky"><b>Premier University</b><br/>
-5th Floor (lift gate is beside cafe milano)<br/>
-Academic Building #2<br/>
-(Opposite to CSCR Hospital)<br/>
-1/A, O. R. Nizam Road<br/>
-Probortok square<br/>
-Chittagong
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Khulna</td>
-    <td class="tg-0pky"><b>Khulna University of Engineering and Technology</b><br/>
-New Academic Building, Block-B<br/>
-CSE Lobby (1st Floor)<br/>
-Room number: CSE-104 and CSE-202<br/>
-Khulna University of Engineering and Technology, Khulna-9203
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Rajshahi</td>
-    <td class="tg-0pky"><b>University of Rajshahi</b><br/>
-      Department of Computer Science and Engineering<br/>
-Room No: 220<br/>
-Fourth Science Building<br/>
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Sylhet</td>
-    <td class="tg-0pky"><b>Metropolitan University</b><br/>
-Al Hamra (7th Floor)<br/>
-Zindabazar, Sylhet.<br/>
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Dinajpur</td>
-    <td class="tg-0pky"><b>Hajee Mohammad Danesh Science and Technology University</b><br/>
-      Department of Computer Science and Engineering <br/>
-Room no. 201 and 202 (Lab) <br/>
-1st floor <br/>
-Dr. M. A. Wazed Building <br/>
-HSTU, Dinajpur.
-</td>
-  </tr>
-</table>
-<br><br>
 #### National Round ####
 Day 1: **March 22, Friday, 2019**
 
@@ -125,6 +62,15 @@ https://ranking.olympiad.org.bd/
 ```
 
 9. During the contest you will be provided with very light refreshment with water/drinks. You are allowed to take that at your own pace. Please maintain discipline, do not disturb others and keep clean.
+
+## Results ##
+
+[Divisional Round]({{ site.baseurl }}/ranking-div.html){:target="_blank"}
+
+
+## Solutions ##
+
+[Divisional Round](https://drive.google.com/uc?export=download&id=1HvvU3ND1CdP0TJ9tpjS3hasVcrP2lWtC){:target="_blank"}
 
 ## Contest Environment ##
 

@@ -19,10 +19,9 @@ lang: en
 * [Results](#results)
 * [Solutions](#solutions)
 * [Instructions to Contestants](#instructions-to-contestants)
-* [Judge Environment](#judge-environment)
-    * [OS And Hardware](#os-and-hardware)
-    * [Programming Languages](#programming-languages)
 * [Contest Environment](#contest-environment)
+    * [Operating System](#operating-system)
+    * [Programming Languages](#programming-languages)
     * [Text Editors And IDEs](#text-editors-and-ides)
 
 ## Schedule ##
@@ -46,7 +45,7 @@ Venue: Daffodil International University
 
 5. The tasks will be available at CMS in PDF form in both Bangla and English. No printout will be given.
 
-6. You are NOT allowed to bring any material in electronic or printed format. You are NOT allowed to talk to any contestant. If you are found to use any such material or talk to others you will be expelled from the contest and disciplinary action may be taken by BIOC subject to investigation. Please do not bring anything except for a pen/pencil with you. You will be provided with blank pages and a pen. 
+6. You are NOT allowed to bring any material in electronic or printed format. You are NOT allowed to talk to any contestant. If you are found to use any such material or talk to others you will be expelled from the contest and disciplinary action may be taken by BIOC subject to investigation. Please do not bring anything except for a pen/pencil with you. You will be provided with blank pages and a pen.
 
 7. You will be provided with the following environment.
 
@@ -58,7 +57,7 @@ Text Editors and IDEs: Code::Blocks; Eclipse; Sublime Text
 8. You are not allowed to use internet except for the following two links. If you are found to be using some other link over internet, you will be expelled from the contest and disciplinary action may be taken by BIOC subject to investigation.
 
 ```
-https://practice.olympiad.org.bd/ 
+https://practice.olympiad.org.bd/
 https://ranking.olympiad.org.bd/
 ```
 
@@ -73,22 +72,17 @@ https://ranking.olympiad.org.bd/
 
 [Divisional Round](https://drive.google.com/uc?export=download&id=1HvvU3ND1CdP0TJ9tpjS3hasVcrP2lWtC){:target="_blank"}
 
-## Judge Environment ##
+## Contest Environment ##
 
-#### OS And Hardware ####
-  * Ubuntu 18.10 - 64bit
-  * Intel Xeon E5
+#### Operating System ####
+  * Windows
   * CMS 1.4
 
 #### Programming Languages ####
   * GCC 8.3(C/C++)
   * Java 8
-  * Python 2
-  * Python 3
-
-## Contest Environment ##
 
 #### Text Editors And IDEs ####
   * Code::Blocks
   * Eclipse
-  * Geany
+  * Sublime Text

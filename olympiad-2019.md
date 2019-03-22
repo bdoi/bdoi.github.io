@@ -27,11 +27,52 @@ lang: en
 ## Schedule ##
 
 #### National Round ####
-Day 1: **March 22, Friday, 2019**
-
-Day 2: **March 23, Saturday, 2019**
-
 Venue: Daffodil International University
+
+<style>
+  table{
+      border-collapse: collapse;
+      border-spacing: 0;
+      border:1px solid #000000;
+  }
+  th{
+      padding: 5px;
+      border:1px solid #000000;
+  }
+  td{
+      padding: 5px;
+      border:1px solid #000000;
+  }
+</style>
+## Day 1 schedule (22 March 2019, Friday)
+
+| Serial | Item | Time | Remarks |
+|--------|------|:----:|---------|
+| 1      | Departure of Transport from AR Plaza Market, Shobhanbug | 14:00 | Only for Contestants |
+| 2      | Light Packet Lunch Served on the bus                    | 14:10 | |
+| 3      | Arrival at Ashulia Campus                               | 15:00 | Gather at Academic Building-1 Lounge |
+| 4      | Kit Distribution & Registration                         | 15:15 | Academic Building-1 Lounge |
+| 5      | Day 1 contest Starts                                    | 16:00 | 302, 303 and 304, AB-1 |
+| 6      | Light Snacks/Water                                      | During Contest | Only for contestants |
+| 7      | Day 1 contest Ends                                      | 21:00 | |
+| 8      | Dinner                                                  | 21:15 | |
+| 9      | Move to accomodation & Night stay                       | 22:00 | Guest accomodation at Green Garden. Only for contestants & Judges |
+
+<br /><br />
+
+## Day 2 schedule (23 March 2019, Saturday)
+
+| Serial | Item | Time | Remarks |
+|--------|------|:----:|---------|
+| 1      | Breakfast                                              | 08:00 | Green Garden Restaurant. Only for contestants & Judges |
+| 2      | Day 2 contest starts                                   | 09:00 | 302, 303 and 304, AB-1 |
+| 3      | Light Snacks/Water                                      | During Contest | Only for contestants |
+| 4      | Day 2 contest Ends                                      | 14:00 | |
+| 5      | Light Lunch                                             | 14:15 | Green Garden Restaurant |
+| 6      | Closing Ceremony                                        | 15:00 | Sadinota Milonayoton |
+| 7      | Departure of Transport from Ashulia                     | 17:00 | Only for Contestants. On the way back a contestant can get dropped at a preferred location(on the route) |
+
+<br /><br />
 
 ## Instructions to Contestants ##
 

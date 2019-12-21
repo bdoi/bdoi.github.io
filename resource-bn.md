@@ -39,4 +39,4 @@ lang: bn
 - [বাংলাদেশ ইনফরমেটিক্স অলিম্পিয়াড -- ২০১৫ (জাতীয় পর্যায়)](https://drive.google.com/drive/u/2/folders/1jsdw97i9WN0EQ5mdCK0UQKCl9oH8SGxV)
 
 ## আই ও আই(IOI) সিলেবাস
-- [আই ও আই(IOI) সিলেবাস -- ২০১৮](https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus-2018.pdf)
+- [আই ও আই(IOI) সিলেবাস -- ২০১৯](https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus-2019.pdf)

@@ -66,12 +66,12 @@
   
     
       <url>
-        <loc>/olympiad-2019-bn.html</loc>
+        <loc>/olympiad-2020-bn.html</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2019-bn.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2020-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2019/" />
+          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2020/" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -79,12 +79,12 @@
   
     
       <url>
-        <loc>/bdoi2019/</loc>
+        <loc>/bdoi2020/</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2019-bn.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2020-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2019/" />
+          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2020/" />
         
         <changefreq>weekly</changefreq>
       </url>

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Olympiad 2019
-permalink: /bdoi2019/
-ref: bdoi2019
+title: Olympiad 2020
+permalink: /bdoi2020/
+ref: bdoi2020
 lang: en
 ---
 
@@ -12,6 +12,37 @@ lang: en
 .tg th{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
+
+# Competition #
+
+* [Registration](#registration)
+* [Contest Schedule](#contest-schedule)
+    * [Divisional Round](#divisional-round)
+* [Divisional Contest Venue](#divisional-contest-venue)
+
+## Registration ##
+***Registration has started. Registration ends on 01/01/2020***
+
+Please register at: https://cutt.ly/crwQ1rn
+
+
+## Contest Schedule ##
+### Divisional Round ###
+Date: January 18, Saturday
+
+Time: 1:00 PM - 06:00 PM
+
+## Divisional Contest Venue ##
+| Division | Venue |
+|--------|------|
+| Dhaka | Daffodil International University |
+| Chittagong | Premier University |
+| Rajshahi | Rajshahi University |
+| Sylhet | SUST |
+| Dinajpur | HSTU |
+| Khulna | KUET |
+
+<!---
 # Competition #
 
 * [Schedule](#schedule)
@@ -28,7 +59,6 @@ lang: en
 
 #### National Round ####
 Venue: Daffodil International University
-
 <style>
   table{
       border-collapse: collapse;
@@ -127,3 +157,5 @@ https://ranking.olympiad.org.bd/
   * Code::Blocks
   * Eclipse
   * Sublime Text
+
+-->

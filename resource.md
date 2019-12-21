@@ -39,4 +39,4 @@ lang: en
 - [BdIO 2015 National](https://drive.google.com/drive/u/2/folders/1jsdw97i9WN0EQ5mdCK0UQKCl9oH8SGxV)
 
 ## IOI Syllabus
-- [IOI Syllabus 2018](https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus-2018.pdf)
+- [IOI Syllabus 2019](https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus-2019.pdf)

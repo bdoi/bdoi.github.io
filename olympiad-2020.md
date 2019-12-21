@@ -11,6 +11,19 @@ lang: en
 .tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+  border:1px solid #000000;
+}
+th{
+  padding: 5px;
+  border:1px solid #000000;
+}
+td{
+  padding: 5px;
+  border:1px solid #000000;
+}
 </style>
 
 # Competition #
@@ -23,7 +36,7 @@ lang: en
 ## Registration ##
 ***Registration has started. Registration ends on 01/01/2020***
 
-Please register at: https://cutt.ly/crwQ1rn
+Please register at: [https://cutt.ly/crwQ1rn](https://cutt.ly/crwQ1rn)
 
 
 ## Contest Schedule ##
@@ -33,8 +46,9 @@ Date: January 18, Saturday
 Time: 1:00 PM - 06:00 PM
 
 ## Divisional Contest Venue ##
+
 | Division | Venue |
-|--------|------|
+|----------|------|
 | Dhaka | Daffodil International University |
 | Chittagong | Premier University |
 | Rajshahi | Rajshahi University |

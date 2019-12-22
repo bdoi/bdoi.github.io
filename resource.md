@@ -33,10 +33,11 @@ lang: en
 - [Toph](https://toph.co/)
 
 ## Questions from previous years
-- [BdIO 2018 National](https://drive.google.com/drive/u/2/folders/13zM9OVnBsKXgGaZJrVQ1KPcQxENp59N8)
-- [BdIO 2017 National](https://drive.google.com/drive/u/2/folders/0B1o0gxWv12-vOFN2c08wR0hFaEE)
-- [BdIO 2016 National](https://drive.google.com/drive/u/2/folders/0B1o0gxWv12-vV2I3U0wtQ0cyS28)
-- [BdIO 2015 National](https://drive.google.com/drive/u/2/folders/1jsdw97i9WN0EQ5mdCK0UQKCl9oH8SGxV)
+- [BdIO 2019 Divisional](https://drive.google.com/drive/u/0/folders/1GIgSt24SjkTWgBNG0gikJCjQVD8g4vYj)
+- [BdIO 2018 National](https://drive.google.com/drive/u/0/folders/13zM9OVnBsKXgGaZJrVQ1KPcQxENp59N8)
+- [BdIO 2017 National](https://drive.google.com/drive/u/0/folders/0B1o0gxWv12-vOFN2c08wR0hFaEE)
+- [BdIO 2016 National](https://drive.google.com/drive/u/0/folders/0B1o0gxWv12-vV2I3U0wtQ0cyS28)
+- [BdIO 2015 National](https://drive.google.com/drive/u/0/folders/1jsdw97i9WN0EQ5mdCK0UQKCl9oH8SGxV)
 
 ## IOI Syllabus
 - [IOI Syllabus 2019](https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus-2019.pdf)

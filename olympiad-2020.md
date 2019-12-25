@@ -55,3 +55,4 @@ Time: 1:00 PM - 06:00 PM
 | Sylhet | SUST |
 | Dinajpur | HSTU |
 | Khulna | KUET |
+| Mymensingh | Jatiya Kabi Kazi Nazrul Islam University (JKKNIU) |

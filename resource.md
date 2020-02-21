@@ -33,11 +33,14 @@ lang: en
 - [Toph](https://toph.co/)
 
 ## Questions from previous years
-- [BdIO 2019 Divisional](https://drive.google.com/drive/u/0/folders/1GIgSt24SjkTWgBNG0gikJCjQVD8g4vYj)
-- [BdIO 2018 National](https://drive.google.com/drive/u/0/folders/13zM9OVnBsKXgGaZJrVQ1KPcQxENp59N8)
-- [BdIO 2017 National](https://drive.google.com/drive/u/0/folders/0B1o0gxWv12-vOFN2c08wR0hFaEE)
-- [BdIO 2016 National](https://drive.google.com/drive/u/0/folders/0B1o0gxWv12-vV2I3U0wtQ0cyS28)
-- [BdIO 2015 National](https://drive.google.com/drive/u/0/folders/1jsdw97i9WN0EQ5mdCK0UQKCl9oH8SGxV)
+- [BdOI 2020 Divisional](https://drive.google.com/open?id=1J98WZ4Hmpggx-HwHgcji8cQZQ_faPDYG)
+- [BdOI 2019 National - Day 2](https://docs.google.com/document/d/1ObRhrhtqo-RjjCqv9uLsMotuKt0ui1oKIs03UzRu8XU)
+- [BdOI 2019 National - Day 1](https://docs.google.com/document/d/1oOG5mFI45T4oTcsf604bitzPF8rSe5DWDJqLcIcSqVo)
+- [BdOI 2019 Divisional](https://drive.google.com/drive/u/0/folders/1GIgSt24SjkTWgBNG0gikJCjQVD8g4vYj)
+- [BdOI 2018 National](https://drive.google.com/drive/u/0/folders/13zM9OVnBsKXgGaZJrVQ1KPcQxENp59N8)
+- [BdOI 2017 National](https://drive.google.com/drive/u/0/folders/0B1o0gxWv12-vOFN2c08wR0hFaEE)
+- [BdOI 2016 National](https://drive.google.com/drive/u/0/folders/0B1o0gxWv12-vV2I3U0wtQ0cyS28)
+- [BdOI 2015 National](https://drive.google.com/drive/u/0/folders/1jsdw97i9WN0EQ5mdCK0UQKCl9oH8SGxV)
 
 ## IOI Syllabus
 - [IOI Syllabus 2019](https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus-2019.pdf)

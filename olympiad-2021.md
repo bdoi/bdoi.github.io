@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Olympiad 2020
-permalink: /bdoi2020/
-ref: bdoi2020
+title: Olympiad 2021
+permalink: /bdoi2021/
+ref: bdoi2021
 lang: en
 ---
 
@@ -26,20 +26,21 @@ td{
 }
 </style>
 
-# Competition #
+# Table of Contents #
 
 * [Registration](#registration)
-* [Contest Schedule](#contest-schedule)
+
+<!-- * [Contest Schedule](#contest-schedule)
     * [Divisional Round](#divisional-round)
-* [Divisional Contest Venue](#divisional-contest-venue)
+* [Divisional Contest Venue](#divisional-contest-venue) -->
 
 ## Registration ##
-***Registration has started. Registration ends on 01/01/2020***
+***Registration has started.***
 
-Please register at: [https://cutt.ly/crwQ1rn](https://cutt.ly/crwQ1rn)
+Please register at: [https://tinyurl.com/bdoi21reg](https://tinyurl.com/bdoi21reg)
 
 
-## Contest Schedule ##
+<!-- ## Contest Schedule ##
 ### Divisional Round ###
 Date: January 18, Saturday
 
@@ -55,4 +56,4 @@ Time: 1:00 PM - 06:00 PM
 | Sylhet | SUST |
 | Dinajpur | HSTU |
 | Khulna | KUET |
-| Mymensingh | Jatiya Kabi Kazi Nazrul Islam University (JKKNIU) |
+| Mymensingh | Jatiya Kabi Kazi Nazrul Islam University (JKKNIU) | -->

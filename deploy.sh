@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# How to use
+# ==========
+# 1. To generate content:
+#        $ bash deploy.sh build
+
+# 2. To copy the generated content to master branch:
+#        $ bash deploy.sh copy
+
+
 function PULL() {
     git checkout master
     git pull bdoi master

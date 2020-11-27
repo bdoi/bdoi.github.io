@@ -3,11 +3,11 @@
   <channel>
     <title>বাংলাদেশ ইনফরমেটিক্স অলিম্পিয়াড</title>
     <description></description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Oct 2020 11:26:31 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2020 11:26:31 +0000</lastBuildDate>
-    <generator>Jekyll v3.7.4</generator>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/flux.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 27 Nov 2020 22:45:52 +0600</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2020 22:45:52 +0600</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
     
     
   </channel>

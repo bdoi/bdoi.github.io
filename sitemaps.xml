@@ -4,38 +4,12 @@
   
     
       <url>
-        <loc>/404.html</loc>
+        <loc>/404-bn.html</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="" href="/rankings/2021/divisional.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/flux.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/index-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/registration-bn/" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/registration/" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/resource-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/resource.html" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/assets/css/style.css" />
+          <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -43,38 +17,12 @@
   
     
       <url>
-        <loc>/rankings/2021/divisional.html</loc>
+        <loc>/404.html</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="" href="/rankings/2021/divisional.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/flux.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/index-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/registration-bn/" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/registration/" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/resource-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/resource.html" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="" href="/assets/css/style.css" />
+          <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -85,9 +33,9 @@
         <loc>/feed.xml</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="" href="/rankings/2021/divisional.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
         
@@ -124,9 +72,9 @@
         <loc>/flux.xml</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="" href="/rankings/2021/divisional.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
         
@@ -189,9 +137,9 @@
         <loc>/css/main.css</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="" href="/rankings/2021/divisional.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
         
@@ -254,9 +202,9 @@
         <loc>/registration-bn/</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="" href="/rankings/2021/divisional.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
         
@@ -293,9 +241,9 @@
         <loc>/registration/</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="" href="/rankings/2021/divisional.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
         
@@ -358,9 +306,9 @@
         <loc>/sitemaps.xml</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="" href="/rankings/2021/divisional.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
         
@@ -397,9 +345,9 @@
         <loc>/assets/css/style.css</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="" href="/404.html" />
+          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
-          <xhtml:link rel="alternate" hreflang="" href="/rankings/2021/divisional.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
         

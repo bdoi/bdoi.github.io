@@ -4,23 +4,8 @@
   
     
       <url>
-        <loc>/404-bn.html</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
         <loc>/404.html</loc>
         
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
@@ -32,8 +17,6 @@
       <url>
         <loc>/feed.xml</loc>
         
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
@@ -71,8 +54,6 @@
       <url>
         <loc>/flux.xml</loc>
         
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
@@ -137,8 +118,6 @@
         <loc>/css/main.css</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
-        
           <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
@@ -202,8 +181,6 @@
         <loc>/registration-bn/</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
-        
           <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
@@ -240,8 +217,6 @@
       <url>
         <loc>/registration/</loc>
         
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
@@ -306,8 +281,6 @@
         <loc>/sitemaps.xml</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
-        
           <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
@@ -344,8 +317,6 @@
       <url>
         <loc>/assets/css/style.css</loc>
         
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/404-bn.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/404.html" />
         

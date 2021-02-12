@@ -35,9 +35,7 @@ td{
 * [Divisional Contest Venue](#divisional-contest-venue) -->
 
 ## Registration ##
-***Registration has started.***
-
-Please register at: [https://tinyurl.com/bdoi21reg](https://tinyurl.com/bdoi21reg)
+Registration has ended.
 
 
 <!-- ## Contest Schedule ##

@@ -10,13 +10,13 @@ title:
   en: Bangladesh Olympiad in Informatics
   bn: বাংলাদেশ ইনফরমেটিক্স অলিম্পিয়াড
 copyright:
-  en: © 2019 - Bangladesh Olympiad in Informatics
-  bn: © 2019 - বাংলাদেশ ইনফরমেটিক্স অলিম্পিয়াড
+  en: © 2020 - Bangladesh Olympiad in Informatics
+  bn: © 2020 - বাংলাদেশ ইনফরমেটিক্স অলিম্পিয়াড
 index:
   en:
   bn: index-bn
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://olympiad.org.bd" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 language:

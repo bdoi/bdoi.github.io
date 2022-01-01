@@ -30,10 +30,6 @@
         
           <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
         
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
-        
           <xhtml:link rel="alternate" hreflang="bn" href="/registration-bn/" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/registration/" />
@@ -66,10 +62,6 @@
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         
           <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
         
           <xhtml:link rel="alternate" hreflang="bn" href="/registration-bn/" />
         
@@ -130,10 +122,6 @@
         
           <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
         
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
-        
           <xhtml:link rel="alternate" hreflang="bn" href="/registration-bn/" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/registration/" />
@@ -145,32 +133,6 @@
           <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
         
           <xhtml:link rel="alternate" hreflang="" href="/assets/css/style.css" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/olympiad-2021-bn.html</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/bdoi2021/</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -192,10 +154,6 @@
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         
           <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
         
           <xhtml:link rel="alternate" hreflang="bn" href="/registration-bn/" />
         
@@ -229,10 +187,6 @@
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         
           <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
         
           <xhtml:link rel="alternate" hreflang="bn" href="/registration-bn/" />
         
@@ -293,10 +247,6 @@
         
           <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
         
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
-        
           <xhtml:link rel="alternate" hreflang="bn" href="/registration-bn/" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/registration/" />
@@ -329,10 +279,6 @@
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         
           <xhtml:link rel="alternate" hreflang="" href="/css/main.css" />
-        
-          <xhtml:link rel="alternate" hreflang="bn" href="/olympiad-2021-bn.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/bdoi2021/" />
         
           <xhtml:link rel="alternate" hreflang="bn" href="/registration-bn/" />
         

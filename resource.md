@@ -33,6 +33,7 @@ lang: en
 - [Toph](https://toph.co/)
 
 ## Questions from previous years
+- [BdOI 2022 Preliminary](https://drive.google.com/drive/folders/1nkh8Sv_es4_Q2nuqzUeo5pnY8PXkoW5-)
 - [BdOI 2021 Preliminary](https://drive.google.com/drive/folders/1WLIbHIwhxAE1gTaCvgwAuwfkj_OrVKud)
 - [BdOI 2020 Divisional](https://drive.google.com/open?id=1J98WZ4Hmpggx-HwHgcji8cQZQ_faPDYG)
 - [BdOI 2019 National - Day 2](https://docs.google.com/document/d/1ObRhrhtqo-RjjCqv9uLsMotuKt0ui1oKIs03UzRu8XU)

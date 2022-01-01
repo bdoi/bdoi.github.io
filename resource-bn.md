@@ -33,6 +33,7 @@ lang: bn
 - [Toph](https://toph.co/)
 
 ## আগের বছরগুলোর প্রশ্নোত্তর
+- [বাংলাদেশ ইনফরমেটিক্স অলিম্পিয়াড -- ২০২২ (প্রাথমিক পর্যায়)](https://drive.google.com/drive/folders/1nkh8Sv_es4_Q2nuqzUeo5pnY8PXkoW5-)
 - [বাংলাদেশ ইনফরমেটিক্স অলিম্পিয়াড -- ২০২১ (প্রাথমিক পর্যায়)](https://drive.google.com/drive/folders/1WLIbHIwhxAE1gTaCvgwAuwfkj_OrVKud)
 - [বাংলাদেশ ইনফরমেটিক্স অলিম্পিয়াড -- ২০২০ (বিভাগীয় পর্যায়)](https://drive.google.com/open?id=1J98WZ4Hmpggx-HwHgcji8cQZQ_faPDYG)
 - [বাংলাদেশ ইনফরমেটিক্স অলিম্পিয়াড -- ২০১৯ (জাতীয় পর্যায় - ২য় দিন)](https://docs.google.com/document/d/1ObRhrhtqo-RjjCqv9uLsMotuKt0ui1oKIs03UzRu8XU)

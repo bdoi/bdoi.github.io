@@ -4,3 +4,5 @@ _site
 .sass-cache
 *.gem
 _
+.jekyll-metadata
+*.lock

@@ -32,7 +32,7 @@ lang: en
 - [UVa Online Judge](https://uva.onlinejudge.org/)
 - [Toph](https://toph.co/)
 
-## Questions from Previous Years
+## Problems from Previous Years
 - [BdOI 2023 National](https://drive.google.com/drive/folders/1S3beSLn51vmwrz3IiaN7WliXvazTUPUx)
 - [BdOI 2023 Preliminary](https://drive.google.com/drive/folders/1HE3Mod5Rq3xwjWoaEZGhOMzsRjkCJJG5)
 - [BdOI 2022 National](https://drive.google.com/drive/folders/1uooYjv_yy8dVEXEdgKVbePLfCLE4PHg7)

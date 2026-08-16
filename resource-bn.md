@@ -35,7 +35,7 @@
 - [LighOJ](http://lightoj.com)
 - [UVa Online Judge](https://uva.onlinejudge.org/)
 - [Toph](https://toph.co/)
-
+- [OJ.UZ](https://oj.uz)
 ## আগের বছরগুলোর সমস্যা
 
 ### অফিসিয়াল কনটেস্ট আর্কাইভ
@@ -85,7 +85,7 @@
 
 ## IOI সিলেবাস
 
-- [IOI Syllabus 2019](https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus-2019.pdf)
+- [IOI Syllabus 2025](https://ioinformatics.org/files/ioi-syllabus-2025.pdf)
 
 ## রেফারেন্স ও স্টাডি টুলস
 

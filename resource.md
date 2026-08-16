@@ -18,7 +18,7 @@
 - English
   - [CP-Algorithms](https://cp-algorithms.com/)
   - [USACO Guide](https://usaco.guide/)
-  - [CP Handbook]()
+  - [CP Handbook](https://cses.fi/book/book.pdf)
 - Bengali
   - [Shafaet’s Blog - Programming & Algorithm Tutorial](http://www.shafaetsplanet.com/)
 

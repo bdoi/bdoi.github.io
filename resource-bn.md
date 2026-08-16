@@ -18,11 +18,10 @@
 - ইংরেজি
   - [CP-Algorithms](https://cp-algorithms.com/)
   - [USACO Guide](https://usaco.guide/)
-  - [International Olympiad in Informatics Training: Path to Gold](https://www.commonlounge.com/discussion/c43e82881eb94fac9dca4140cf4b31d0)
-  - [CodeChef’s Indian Programming Camp 2016](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO)
-  - [IPC camp - 2017](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nvImim3_ilsdLOtDDkOWt-X)
+  - [CP Handbook](https://cses.fi/book/book.pdf)
 - বাংলা
   - [Shafaet’s Blog - Programming & Algorithm Tutorial](http://www.shafaetsplanet.com/)
+
 
 ## অনলাইন কনটেস্ট প্ল্যাটফর্ম
 

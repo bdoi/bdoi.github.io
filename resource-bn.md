@@ -90,8 +90,8 @@
 ## রেফারেন্স ও স্টাডি টুলস
 
 - [C++ Reference (cppreference)](https://en.cppreference.com/)
-- [C++ — The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-- [C++ Tutorial From Basic to Advance — Extern Code](https://youtu.be/mUQZ1qmKlLY)
+- [C++(The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- [C++ Tutorial From Basic to Advance(Extern Code)](https://youtu.be/mUQZ1qmKlLY)
 
 ## কমিউনিটি
 
